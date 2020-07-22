@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="play_again">Play Again</string>
+    <string name="textview">TextView</string>
+    <string name="it_s_a_draw"> It \'s a draw !!</string>
+</resources>
